@@ -15,9 +15,9 @@ Model diuji dalam 4 konfigurasi:
 
 
 
-Horizon prediksi: 1 hari, 7 hari, 30 hari
-Evaluasi: Time Series Cross-Validation, Bayesian Optimization
-Metrik: RMSE, MAPE, Uji Friedman & Nemenyi
+Horizon prediksi: 1 hari, 7 hari, 30 hari.
+Evaluasi: Time Series Cross-Validation, Bayesian Optimization.
+Metrik: RMSE, MAPE, Uji Friedman & Nemenyi.
 
 
 Hasil Utama
