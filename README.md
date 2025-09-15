@@ -1,6 +1,8 @@
 # Tugas-Akhir
 Evaluasi Model Prophet dengan Regresor Hari Libur dan Cuaca untuk Peramalan Multi-Horizon Harga Cabai Rawit Merah di Kabupaten Malang
 
+https://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/15259
+
 Proyek ini mengevaluasi performa model Prophet dalam memprediksi harga harian cabai rawit merah dengan mempertimbangkan faktor hari libur nasional dan data cuaca. Dataset mencakup harga harian cabai rawit merah di Kabupaten Malang (2022–2025), variabel cuaca dari BMKG Karangploso, serta kalender hari libur nasional.
 
 Metodologi
